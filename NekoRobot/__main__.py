@@ -144,9 +144,9 @@ buttons = [
         )
     ],
     [
-        InlineKeyboardButton(text="📓 Guidelines", callback_data="help_back"),
+        InlineKeyboardButton(text="📓 Help", callback_data="help_back"),
         InlineKeyboardButton(
-            text="Source 🌐", url="https://github.com/Awesome-Prince/NekoRobot-3.git"
+            text="Logs 🌐", url="https://github.com/Awesome-Prince/NekoRobot-3.git"
         ),
     ],
     [
