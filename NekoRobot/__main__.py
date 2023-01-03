@@ -131,7 +131,8 @@ PM_START_TEXT = """
 ❍ Patch Name : Offline Edition
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
 ❍ Next Patch : 12:12:2023
-❍ Next Patch Name : UB Edition
+❍ Next Patch Name : UB Edition 
+➖➖➖➖➖➖➖➖➖➖➖➖➖
 ➛ Try The Guidelines Button Below To Know My Abilities ××
 """
 
