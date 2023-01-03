@@ -121,7 +121,7 @@ NEKO_STICKERS = (
 
 PM_START_TEXT = """
 ────「 [{}](https://te.legra.ph/file/123150e767d057da6b701.jpg) 」────
-*Hola! {},*
+*Hey! {},*
 *ɪ ᴀᴍ ᴀ ᴘᴏᴡᴇʀғᴜʟ ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ.!*
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
 ❍ *Uptime:* `{}`
@@ -139,7 +139,7 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(
-            text=f"Add {BOT_NAME} To Your Group",
+            text=f"Add me to Your Group",
             url=f"https://telegram.dog/{BOT_USERNAME}?startgroup=true",
         )
     ],
