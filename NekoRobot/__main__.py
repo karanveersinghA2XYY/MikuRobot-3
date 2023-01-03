@@ -120,7 +120,7 @@ NEKO_STICKERS = (
 )
 
 PM_START_TEXT = """
-────「 [{}](https://telegra.ph/file/9996ec2eafdef4692102d.jpg) 」────
+────「 [{}](https://te.legra.ph/file/123150e767d057da6b701.jpg) 」────
 *Hola! {},*
 *Meow Meow, Don't Touch Me Without My Permission!*
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
