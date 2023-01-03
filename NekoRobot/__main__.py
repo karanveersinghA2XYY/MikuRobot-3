@@ -146,7 +146,7 @@ buttons = [
     [
         InlineKeyboardButton(text="📓 Help", callback_data="help_back"),
         InlineKeyboardButton(
-            text="Logs 🌐", url="https://github.com/Awesome-Prince/NekoRobot-3.git"
+            text="Logs 🌐", url="https://t.me/Apple_logs"
         ),
     ],
     [
