@@ -177,7 +177,7 @@ GROUP_START_IMG = (
     "https://te.legra.ph/file/86784e3736afdce88e9fc.jpg",
 )
 
-DONATE_STRING = """❂ I'm Free for Everyone ❂"""
+DONATE_STRING = """If you want to donate my master then you can cuz he is very poor. [My master](https://t.me/Anymous_X)"""
 
 IMPORTED = {}
 MIGRATEABLE = []
