@@ -125,9 +125,10 @@ PM_START_TEXT = """
 *ɪ ᴀᴍ ᴀ ᴘᴏᴡᴇʀғᴜʟ ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ.!*
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
 ❍ *Uptime:* `{}`
-❍ Patch Name : Offline Edition 
+❍ {} *Users, Across* {} *Chats.* 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
-❍ `{}` *Users, Across* `{}` *Chats.*
+❍ Last Update : 25:11:22 
+❍ Patch Name : Offline Edition
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
 ➛ Try The Guidelines Button Below To Know My Abilities ××
 """
