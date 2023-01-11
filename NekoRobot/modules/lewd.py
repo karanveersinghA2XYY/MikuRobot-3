@@ -853,7 +853,7 @@ __help__ = """
    • `/hentaigif`*:* Sends Random Hentai GIFs.
    • `/classic`*:* Sends Random Classic Hentai GIFs.
    • `/kuni`*:* Sends Random Pussy Lick GIFs.
-   • `/kiss`*:* Sends Random Kissing GIFs.
+   • `/kiss`*:* Sends Random Kiss GIFs.
    • `/femdom`*:* Sends Random Femdom source Images.
    • `/cuddle`*:* Sends Random Cuddle GIFs.
    • `/erok`*:* Sends Random Ero-Kitsune source Images.
